@@ -6,7 +6,10 @@ p{
     height: 40px;
 }
 div{
-	height: 300px;
-	width: 200px;
 	background-color: lightcyan;
+
+	width: 200px;
+	height: 200px;
+
+
 }
